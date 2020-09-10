@@ -1,2 +1,2 @@
 # cafe
-https://yewul01.github.io/cafe/.
+https://yewul01.github.io/cafe/
