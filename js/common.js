@@ -9,7 +9,7 @@
         $('#joBox').load(url)
     })
 
-    $('.nav > ul > li:nth-child(4) > a').on('click', function(e) {
+    $('.customer > a').on('click', function(e) {
         e.preventDefault()
         var url = $(this).attr('href')
         $('#joContainer').remove()
